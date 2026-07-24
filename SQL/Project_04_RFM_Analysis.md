@@ -95,3 +95,16 @@ Send win-back campaigns or discount coupons.
 This project taught me how SQL can be used for customer segmentation.
 
 I learned how businesses classify customers using RFM analysis to improve retention, increase revenue and optimize marketing strategies.
+# 🎯 Customer Segmentation Logic
+
+| RFM Score | Customer Type |
+|-----------|---------------|
+| 555 | Champions |
+| 554 / 545 / 455 | Loyal Customers |
+| High M | Big Spenders |
+| High F | Frequent Buyers |
+| High R | Recent Customers |
+| 1XX / X1X / XX1 | At Risk |
+| 111 | Lost Customers |
+
+This segmentation allows businesses to design targeted marketing campaigns instead of treating every customer equally.
